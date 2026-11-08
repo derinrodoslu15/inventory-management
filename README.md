@@ -1,4 +1,3 @@
-Markdown
 # Spare Parts Inventory Manager
 
 ## About This Project
