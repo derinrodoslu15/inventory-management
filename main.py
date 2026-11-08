@@ -258,7 +258,7 @@ ttk.Button(buttons_frame, text="Update Name", command=update_part_name).pack(sid
 ttk.Button(buttons_frame, text="Delete Part", command=delete_spare_part).pack(side=tk.LEFT, padx=5)
 ttk.Button(buttons_frame, text="Clear", command=clear_entries).pack(side=tk.LEFT, padx=5)
 
-# Status Label ;)
+# Status Label
 tk.Label(form_frame, textvariable=status_var, fg="blue", bg="#ffffff").grid(row=3, column=0, columnspan=4, sticky=tk.W, padx=5)
 
 # Personal Signature
